@@ -20,3 +20,5 @@
 ## Используемые библиотеки
 
 `Pandas`  `Scikit-learn`  `LightGBM`  `CatBoost`
+
+#### Статус: Завершен
