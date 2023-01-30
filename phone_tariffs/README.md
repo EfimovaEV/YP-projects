@@ -13,6 +13,6 @@
 
 ## Используемые библиотеки
 
-`Pandas`  `Scikit-learn`  `LightGBM`  `CatBoost`
+`Pandas`  `Scikit-learn`  `Matplotlib`
 
 #### Статус: Завершен.
